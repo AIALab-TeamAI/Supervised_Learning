@@ -9,6 +9,7 @@
 
 *b. Two-stage (R-CNN family.etc)*
 
+
 - Case 1: you will annotation the boxs that contain the objects we want to recognize. The [LableImg](https://github.com/heartexlabs/labelImg) tool is chosen for this task.
 - Case 2: you want to lable the oriented bounding box. The [roLabelImg](https://github.com/cgvict/roLabelImg) tool is used for this purpose.
 
@@ -16,7 +17,7 @@
 
 *a. One-stage (YOLACT, SOLOv1-2, BlendMask, CenterMask, CondInst, BoxInst-Based FCOS, etc.)*
 
-*b. Two-stage (Mask-RCNN, Rotated Mask-RCNN, MaskLab,etc.)
+*b. Two-stage (Mask-RCNN, Rotated Mask-RCNN, MaskLab,etc.)*
 
 **_After that:_**
 
