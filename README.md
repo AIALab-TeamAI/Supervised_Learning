@@ -26,7 +26,7 @@
 
 **+ Go to the _CONVERT-FORAMT_ to select one convertion method.**
 
-### 2.Online annotation using Roboflow.
+### 2. Online annotation using Roboflow.
 
 => Following this [link](https://docs.roboflow.com/) to implement by yourself.
 
@@ -39,7 +39,7 @@
 
 ### 3. You should prepare dataset that is separated and save each part into a folder.
 
-* First, run B1.py: create new enviroment.
+**_First, run B1.py: create new enviroment.
 
 - To run this code, you should install librarys:
 - pip install open3d-python (version --0.7.00)
@@ -48,7 +48,7 @@
 - (2) Eg: run code "python B1.py -i /home/airlab/Desktop/Annotation3D/DATACUTTING/ -o /home/airlab/Desktop/Annotation3D/DATA/"
 - After you select object for train and test. And save it into two folder named: "DATATRAIN and DATATEST".
 
-* Then run B2.py: create new enviroment.
+**_Then run B2.py: create new enviroment.
 
 - Intruction: create new enviroment 
 - (1) Install: 
@@ -57,7 +57,7 @@
  -  add d3 folder
 - (2) you should fix something about direction
     * Eg: run code: "python B2.py -i /home/airlab/Desktop/Annotation3D/DATATRAIN" and "python B2.py -i /home/airlab/Desktop/Annotation3D/DATATEST".
-* Library is to process 3D point cloud:
+**_Library is to process 3D point cloud:
 - open3d
 - plyfile
 - trimesh
