@@ -30,17 +30,18 @@
 
 => Following this [link](https://docs.roboflow.com/) to implement by yourself.
 
+
 ## _ANNOTATION for 3D POINT CLOUD_
-```
-1. install Mesh_Labeler-main.zip
 
-2. 3D_segmentation_annotation.
+### 1. install Mesh_Labeler-main.zip
 
-3. You should prepare dataset that is separated and save each part into a folder.
+### 2. 3D_segmentation_annotation.
+
+### 3. You should prepare dataset that is separated and save each part into a folder.
 
 * First, run B1.py: create new enviroment.
 
--To run this code, you should install librarys:
+- To run this code, you should install librarys:
 - pip install open3d-python (version --0.7.00)
 - pip install plyfile
 - (1) You should fix something about  input and output folder direction to match your folder
@@ -64,7 +65,7 @@
 - openGL
 - PCL with C++
 This project is a work in progress.
-```
+
 # Supervised_Learning-BUILD MODEL DL
 
 
