@@ -28,12 +28,12 @@
 
 ### 2. Online annotation using Roboflow.
 
-=> Following this [link](https://docs.roboflow.com/) to implement by yourself.
+=> Following the [Roboflow](https://docs.roboflow.com/) for implementation.
 
 
 ## _ANNOTATION for 3D POINT CLOUD_
 
-### 1. install Mesh_Labeler-main.zip
+### 1. Install Mesh_Labeler-main.zip
 
 ### 2. 3D_segmentation_annotation.
 
@@ -67,5 +67,13 @@
 This project is a work in progress.
 
 # Supervised_Learning-BUILD MODEL DL
+
+## _FRAMEWORK FOR DEEP LEARNING_
+
+- There are many framework used for developming DL such as [Tensorflow](https://www.tensorflow.org/tutorials/quickstart/beginner), [Pytorch](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html), [Caffe](https://recodeminds.com/blog/a-beginners-guide-to-caffe-for-deep-learning/), [ONNX](https://onnx.ai/),etc.
+- TensorFlow and Pytorch are well-know in Deep Leaning model.
+- TensorFlow for acadima.
+- Pytorch for developming applicatioon.
+- ONNX for real-time model.   
 
 
