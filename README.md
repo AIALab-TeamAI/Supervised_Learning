@@ -1,3 +1,5 @@
+# Supervised_Learning-[LECTURE](https://cs.nyu.edu/~yann/talks/lecun-ranzato-icml2013.pdf)
+
 # Supervised_Learning-ANNOTATION
 
 ## _ANNOTATION for 2D IMAGE_
@@ -42,6 +44,7 @@
 ** _First, run B1.py: create new enviroment._
 
 ***_To run this code, you should install librarys:_
+
 - pip install open3d-python (version --0.7.00)
 - pip install plyfile
 - (1) You should fix something about  input and output folder direction to match your folder
@@ -51,13 +54,16 @@
 ** _Then run B2.py: create new enviroment._
 
 ***_Intruction: create new enviroment_ 
+
 - (1) Install: 
  -  pip install open3d=0.13.0.0
  -  pip install plyfile
  -  add d3 folder
 - (2) you should fix something about direction
     * Eg: run code: "python B2.py -i /home/airlab/Desktop/Annotation3D/DATATRAIN" and "python B2.py -i /home/airlab/Desktop/Annotation3D/DATATEST".
+    
 ** _Library is to process 3D point cloud:_
+
 - open3d
 - plyfile
 - trimesh
@@ -70,7 +76,7 @@ This project is a work in progress.
 
 ## _FRAMEWORK for DEEP LEARNING_
 
-- There are many framework used for developming DL such as [Tensorflow](https://www.tensorflow.org/tutorials/quickstart/beginner), [Pytorch](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html), [Caffe](https://recodeminds.com/blog/a-beginners-guide-to-caffe-for-deep-learning/), [ONNX](https://onnx.ai/),etc.
+- There are many framework used for developming DL such as [Tensorflow](https://www.tensorflow.org/tutorials/quickstart/beginner), [Pytorch](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html), [Caffe](https://recodeminds.com/blog/a-beginners-guide-to-caffe-for-deep-learning/), [ONNX](https://onnx.ai/),Keras, etc.
 - TensorFlow and Pytorch are well-know in Deep Leaning model.
 - TensorFlow for academia.
 - Pytorch for developming applicatioon.
