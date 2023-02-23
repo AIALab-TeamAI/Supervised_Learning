@@ -28,10 +28,9 @@
 
 ### 2.Online annotation using Roboflow.
 
-==> Following this [link](https://docs.roboflow.com/) to implement by yourself.
+=> Following this [link](https://docs.roboflow.com/) to implement by yourself.
 
 ## _ANNOTATION for 3D POINT CLOUD_
-
 ```
 1. install Mesh_Labeler-main.zip
 
