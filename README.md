@@ -39,25 +39,25 @@
 
 ### 3. You should prepare dataset that is separated and save each part into a folder.
 
-**_First, run B1.py: create new enviroment.
+**_First, run B1.py: create new enviroment._
 
-- To run this code, you should install librarys:
+***_To run this code, you should install librarys:_
 - pip install open3d-python (version --0.7.00)
 - pip install plyfile
 - (1) You should fix something about  input and output folder direction to match your folder
 - (2) Eg: run code "python B1.py -i /home/airlab/Desktop/Annotation3D/DATACUTTING/ -o /home/airlab/Desktop/Annotation3D/DATA/"
 - After you select object for train and test. And save it into two folder named: "DATATRAIN and DATATEST".
 
-**_Then run B2.py: create new enviroment.
+**_Then run B2.py: create new enviroment._
 
-- Intruction: create new enviroment 
+***_Intruction: create new enviroment_ 
 - (1) Install: 
  -  pip install open3d=0.13.0.0
  -  pip install plyfile
  -  add d3 folder
 - (2) you should fix something about direction
     * Eg: run code: "python B2.py -i /home/airlab/Desktop/Annotation3D/DATATRAIN" and "python B2.py -i /home/airlab/Desktop/Annotation3D/DATATEST".
-**_Library is to process 3D point cloud:
+**_Library is to process 3D point cloud:_
 - open3d
 - plyfile
 - trimesh
