@@ -341,5 +341,8 @@ def test():
 
 ## _NECKBONE_
 
+### _[BOTOOM-UP](https://github.com/airsplay/py-bottom-up-attention)
+
+### _[TOP-DOWN](https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE)
 
 ## _HEADEAD_PREDICTION_ 
