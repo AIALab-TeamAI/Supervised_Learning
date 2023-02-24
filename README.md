@@ -10,13 +10,11 @@
 *a. One-stage (YOLO family, SSD-Net, FCOS,etc.)*
 
 This is the common structure.
-
 ![pic1](https://github.com/AIALab-TeamAI/Supervised_Learning/blob/main/src_img/single_stage_object_detection.png)
 
 *b. Two-stage (R-CNN family.etc)*
 
 This is the common structure
-
 ![pic2](https://github.com/AIALab-TeamAI/Supervised_Learning/blob/main/src_img/two_stage_object_detection.png)) 
 
 => Case 1: You will annotation the boxs that contain the objects we want to recognize. The [LableImg](https://github.com/heartexlabs/labelImg) tool is chosen for this task.
@@ -28,13 +26,11 @@ This is the common structure
 *a. One-stage (YOLACT, SOLOv1-2, BlendMask, CenterMask, CondInst, BoxInst-Based FCOS, etc.)*
 
 This is the SOLOv2 structure.
-
 ![pic3](https://github.com/AIALab-TeamAI/Supervised_Learning/blob/main/src_img/single_stage_instance_segmentation.png)
 
 *b. Two-stage (Mask-RCNN, Rotated Mask-RCNN, MaskLab,etc.)*
 
 This is the MASK-RCNN structure.
-
 ![pic4](https://github.com/AIALab-TeamAI/Supervised_Learning/blob/main/src_img/two_stage_instance_segmentation.PNG)
 
 => For this task, you use this [Labelme](https://github.com/zhong110020/labelme) tool to annotate polygon of object.
