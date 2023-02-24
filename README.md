@@ -203,15 +203,17 @@ class VGG(nn.Module):
                 in_channels = x
         layers += [nn.AvgPool2d(kernel_size=1, stride=1)]
         return nn.Sequential(*layers)
-        ```
+ ```
 
 ### _RESNETs_
 
 ![pic7](https://github.com/AIALab-TeamAI/Supervised_Learning/blob/main/src_img/ResNet_VGGs.png)
 
 #### Exmaple:
+
 ```
-'''ResNet in PyTorch.
+'''
+ResNet in PyTorch.
 For Pre-activation ResNet, see 'preact_resnet.py'.
 Reference:
 [1] Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
@@ -220,7 +222,6 @@ Reference:
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-
 
 class BasicBlock(nn.Module):
     expansion = 1
@@ -248,8 +249,6 @@ class BasicBlock(nn.Module):
         out += self.shortcut(x)
         out = F.relu(out)
         return out
-
-
 class Bottleneck(nn.Module):
     expansion = 4
 
@@ -314,7 +313,6 @@ class ResNet(nn.Module):
         out = self.linear(out)
         return out
 
-
 def ResNet18():
     return ResNet(BasicBlock, [2, 2, 2, 2])
 
@@ -339,7 +337,6 @@ def test():
     net = ResNet18()
     y = net(torch.randn(1, 3, 32, 32))
     print(y.size())
-
 ```
 
 ## _NECKBONE_
