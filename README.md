@@ -10,7 +10,8 @@
 *a. One-stage (YOLO family, SSD-Net, FCOS,etc.)*
 
 This is the common structure.
-!(https://github.com/AIALab-TeamAI/Supervised_Learning/blob/main/src_img/single_stage_object_detection.png)
+
+!https://github.com/AIALab-TeamAI/Supervised_Learning/blob/main/src_img/single_stage_object_detection.png
 
 *b. Two-stage (R-CNN family.etc)*
 
