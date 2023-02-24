@@ -20,13 +20,22 @@ This is the common structure
 ![pic2](https://github.com/AIALab-TeamAI/Supervised_Learning/blob/main/src_img/two_single_object_detection.png) 
 
 => Case 1: You will annotation the boxs that contain the objects we want to recognize. The [LableImg](https://github.com/heartexlabs/labelImg) tool is chosen for this task.
+
 => Case 2: You want to lable the oriented bounding box. The [roLabelImg](https://github.com/cgvict/roLabelImg) tool is used for this purpose.
 
 **B. Instance segmentation**
 
 *a. One-stage (YOLACT, SOLOv1-2, BlendMask, CenterMask, CondInst, BoxInst-Based FCOS, etc.)*
 
+This is the SOLOv2 structure.
+
+![pic3]()
+
 *b. Two-stage (Mask-RCNN, Rotated Mask-RCNN, MaskLab,etc.)*
+
+This is the MASK-RCNN structure.
+
+![pic4]()
 
 => For this task, you use this [Labelme](https://github.com/zhong110020/labelme) tool to annotate polygon of object.
 
