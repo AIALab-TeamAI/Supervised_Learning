@@ -114,8 +114,6 @@ This project is a work in progress.
 
 ### _GOOOGLENET_
 
-### _
-
 ## _NECKBONE_
 
 
