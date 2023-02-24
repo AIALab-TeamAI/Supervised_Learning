@@ -9,7 +9,11 @@
 
 *a. One-stage (YOLO family, SSD-Net, FCOS,etc.)*
 
+This is the common structure.
+!(https://github.com/AIALab-TeamAI/Supervised_Learning/blob/main/src_img/single_stage_object_detection.png)
+
 *b. Two-stage (R-CNN family.etc)*
+
 
 => Case 1: You will annotation the boxs that contain the objects we want to recognize. The [LableImg](https://github.com/heartexlabs/labelImg) tool is chosen for this task.
 => Case 2: You want to lable the oriented bounding box. The [roLabelImg](https://github.com/cgvict/roLabelImg) tool is used for this purpose.
