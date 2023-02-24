@@ -102,6 +102,21 @@ This project is a work in progress.
 
 ## _BACKBONE_EXTRACT_FEATURE_
 
-## _NECKBONE_BOTTOM_
+### _AlexNET_
+
+### _VGG_
+
+### _RESNET*_
+
+### _RESNEXT_
+
+### _DENSNET_
+
+### _GOOOGLENET_
+
+### _
+
+## _NECKBONE_
+
 
 ## _HEADDEAD_PREDICTION_ 
