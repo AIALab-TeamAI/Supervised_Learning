@@ -32,7 +32,6 @@ This is the SOLOv2 structure.
 
 This is the MASK-RCNN structure.
 ![pic4](https://github.com/AIALab-TeamAI/Supervised_Learning/blob/main/src_img/two_stage_instance_segmentation.PNG)
-Phạm Thế Thịnh
 
 => For this task, you use this [Labelme](https://github.com/zhong110020/labelme) tool to annotate polygon of object.
 
