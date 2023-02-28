@@ -50,7 +50,7 @@ This is the MASK-RCNN structure.
 
 ### 1. Install Mesh_Labeler-main.zip
 
-### 2. 3D_segmentation_annotation.
+### 2. 3D segmentation annotation.
 
 ### 3. You should prepare dataset that is separated and save each part into a folder.
 
