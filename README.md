@@ -1,6 +1,6 @@
-# Supervised_Learning-[LECTURE](https://cs.nyu.edu/~yann/talks/lecun-ranzato-icml2013.pdf)
+# SUPERVISED LEARNING-[LECTURE](https://cs.nyu.edu/~yann/talks/lecun-ranzato-icml2013.pdf)
 
-# Supervised_Learning-ANNOTATION
+# SUPERVISED LEARNING-ANNOTATION
 
 ## _ANNOTATION for 2D IMAGE_
 ### 1. Annotation tools. 
@@ -85,7 +85,7 @@ This is the MASK-RCNN structure.
 - PCL with C++
 This project is a work in progress.
 
-# Supervised_Learning-BUILD MODEL DL
+# SUPERVISED LEARNING-BUILD MODEL DL
 
 ## _FRAMEWORK for DEEP LEARNING_
 
@@ -104,7 +104,7 @@ This project is a work in progress.
 
 ## _[FEATURE_EXTRACTION_BACKBONE-MODEL](https://github.com/AIALab-TeamAI/Supervised_Learning/blob/main/PAPER/backbone.pdf)_
 
-### _AlexNET_
+### _AlexNET MODEL_
 
 ![pic5](https://github.com/AIALab-TeamAI/Supervised_Learning/blob/main/src_img/AlexNet.png)
 
@@ -341,10 +341,10 @@ def test():
     print(y.size())
 ```
 
-## [_NECKBONE_MODEL]()
+## [_NECKBONE MODEL_]()
 
 ### _[BOTOOM-UP](https://github.com/airsplay/py-bottom-up-attention)_
 
 ### _[TOP-DOWN](https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE)_
 
-## _HEADEAD_PREDICTION_ 
+## _HEADEAD PREDICTION_ 
