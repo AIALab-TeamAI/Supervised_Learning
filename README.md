@@ -343,7 +343,7 @@ def test():
 
 ## [_NECKBONE MODEL_]()
 
-### _[BOTOOM-UP](https://github.com/airsplay/py-bottom-up-attention)_
+### _[BOTTOM-UP](https://github.com/airsplay/py-bottom-up-attention)_
 
 ### _[TOP-DOWN](https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE)_
 
