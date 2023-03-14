@@ -347,7 +347,7 @@ def test():
 
 ### _[TOP-DOWN](https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE)_
 
-## _HEADEAD PREDICTION_
+## _HEAD PREDICTION_
 
 ### _[FCN model](https://github.com/wkentaro/pytorch-fcn)_
 
